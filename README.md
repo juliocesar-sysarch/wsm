@@ -4,7 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Status: Working Paper](https://img.shields.io/badge/Status-Working_Paper_v1.0-orange.svg)](#citation)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.21916913)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21916913-blue.svg)](https://doi.org/10.5281/zenodo.21916913)
 
 ---
 
